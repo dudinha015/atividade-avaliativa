@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    margin: 0;
+    color: black;
+    background-color: rgb(54, 159, 245);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+main{
+    text-align: center;
+    color: black(20, 20, 235);
+    background-color: rgb(58, 175, 230);
+   
+   
+}
+header{
+    text-align: center;
+    
+}
+footer{
+    text-align: center;
+    background-color: rgb(58, 175, 230);
+    color: black;
+}
+button{
+    height: 10%;
+    width: 20%;
+    margin:10%;
+    
+}
+nav{
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+link{
+    text-align: center;
+
+}
+text{
+    color: black;
+}
+button {
+     margin-top: center;
+     color: red;
+}
